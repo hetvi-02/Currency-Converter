@@ -17,12 +17,24 @@ Currency-Converter/
 ├── CurrencyConverter3.java  
 ├── README.md
 
-## ▶️ **How to Run the Project**  
-1. Make sure **Java** is installed (`java --version`)  
-2. Clone the repository: `git clone https://github.com/hetvi-02/currency-converter.git`  
-3. Navigate to the project directory: `cd currency-converter`  
-4. Compile the program: `javac CurrencyConverter3.java`  
-5. Run the program: `java CurrencyConverter3`
+
+## ▶️ How to Run the Project
+1. Make sure Java is installed on your system  
+   Check using:
+   ```bash
+   java --version
+   
+2. Clone the repository:
+   git clone https://github.com/hetvi-02/currency-converter.git
+
+3. Navigate to the project directory:
+   cd currency-converter
+
+4. Compile the program:
+   javac CurrencyConverter3.java
+
+5. Run the program:
+   java CurrencyConverter3
 
 ## 🎓 **Learning Outcomes**  
 🧩 Understand **Java program structure** and syntax  
